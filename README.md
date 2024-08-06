@@ -22,7 +22,7 @@ This project is a cryptocurrency listing interface that displays key information
 ## Installation
 
 1. Clone the repository:
-    git clone <repository-url>
+    git clone https://github.com/AniketKhonde/BlocsysProject.git
 
 2. Navigate to the project directory:
     cd cryptoproject
